@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>key_for_string</key>
+	<string>Hello, World!</string>
+	<key>key_for_integer</key>
+	<integer>42</integer>
+	<key>key_for_float</key>
+	<real>3.14159</real>
+	<key>key_for_boolean_true</key>
+	<true/>
+	<key>key_for_boolean_false</key>
+	<false/>
+	<key>key_for_date</key>
+	<date>2010-02-27T16:46:42Z</date>
+	<key>key_for_data</key>
+	<data></data>
+	<key>key_for_dictionary</key>
+	<dict>
+		<key>key_for_first_item</key>
+		<string>I am first</string>
+		<key>key_for_second_item</key>
+		<string>No Fair!</string>
+	</dict>
+	<key>key_for_array</key>
+	<array>
+		<string>foo</string>
+		<string>bar</string>
+		<string>baz</string>
+	</array>
+	<key>name with spaces</key>
+	<string>test</string>
+</dict>
+</plist>
