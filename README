@@ -1,0 +1,6 @@
+libplist.php Example Usage
+
+$plist = new Plist();
+$arr_plist = $plist->load_file('sample.plist');
+
+print_r($arr_plist);

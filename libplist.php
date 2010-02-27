@@ -173,12 +173,5 @@
 			}
 		}
 	}
-
-	// Tests for the plist class
-	$plist = new Plist();
-	$arr_plist = $plist->load_file('sample.plist');
 	
-	print_r($arr_plist);
-	print("\n");
-	print($plist->save_string());
 ?>
